@@ -5,5 +5,5 @@ Database: postgreSQL
 
 
 Run Commands:
-    npm i
+    npm i,
     node index.js
